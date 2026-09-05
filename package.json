@@ -1,0 +1,10 @@
+{
+  "name": "mywebcalculator-backend",
+  "version": "1.0.0",
+  "description": "Backend JavaScript calculator module (Penjumlahan, Pengurangan, Perkalian, Pembagian)",
+  "main": "src/calculator.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "ISC"
+}
